@@ -13,6 +13,24 @@ h1 {
 	margin: 0;
 }
 
+h3 {
+	font-family: 'Raleway', sans-serif;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+	margin: 10px 0;
+}
+
+.results {
+	font-family: 'Raleway', sans-serif;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+	margin: 10px 0;
+}
+
 nav {
 	background-color: #00A6B3;
 	color: #ffffff;
@@ -74,6 +92,20 @@ footer {
 	font-weight: 500;
 	font-family: 'raleway', sans-serif;
 }
+
+.reset-button {
+  border: none;
+  background-color: #F15B31;
+  padding: 10px;
+  margin: 7px 0;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  font-family: 'raleway', sans-serif;
+  color: white;
+  border-radius: 8px;
+}
+
 
 .copyright {
 	float: left;
